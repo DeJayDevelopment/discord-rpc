@@ -1,4 +1,4 @@
-![Logo](https://github.com/vatuu/discord-rpc/raw/master/rpc.png "Java Discord RPC")
+<img src="https://github.com/vatuu/discord-rpc/raw/master/rpc.png" align="right" height="256" width="256"/>
 
 [![jitpack](https://jitpack.io/v/Vatuu/discord-rpc.svg)](https://jitpack.io/#Vatuu/discord-rpc) [![Build Status](https://travis-ci.org/Vatuu/discord-rpc.svg?branch=master)](https://travis-ci.org/Vatuu/discord-rpc) 
 
